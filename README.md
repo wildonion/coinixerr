@@ -1,0 +1,2 @@
+# coinixerr
+uniXerr cryptocurrency
