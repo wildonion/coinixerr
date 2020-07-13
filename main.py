@@ -5,6 +5,7 @@
 
 '''
 References:
+          https://github.com/wildonion/stomegranate/blob/master/thewobox/blockchain.js
           https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
           https://developer.ibm.com/technologies/blockchain/tutorials/develop-a-blockchain-application-from-scratch-in-python/
           https://www.youtube.com/watch?v=KARxDX5DTgY
