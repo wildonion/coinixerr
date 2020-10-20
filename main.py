@@ -5,6 +5,13 @@
 
 '''
 References:
+          http://trappedpuzzlerooms.com/z1p-broker/python-stock-bot-github.html
+          https://blog.ansonbiggs.com/simple-telegram-stock-bot/
+          https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fcodeburst.io%2Findian-stock-market-price-notifier-bot-telegram-92e376b0c33a
+          https://towardsdatascience.com/algorithmic-trading-bot-python-ab8f42c37145
+          https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18
+          https://www.activestate.com/blog/how-to-build-an-algorithmic-trading-bot/
+          https://www.codementor.io/@powderblock/algo-trading-101-building-your-first-stock-trading-bot-in-python-13fwsexn5f
           https://www.youtube.com/playlist?list=PLBOh8f9FoHHhNmKlVW8TYKnNoCCf8srPh
           https://youtu.be/HT84tmymPaQ
           https://drive.google.com/file/d/1QeTdJYRJZGz8nTfqqxpW5GsPRvzTPkvo/view?usp=sharing
