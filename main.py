@@ -5,6 +5,15 @@
 
 '''
 References:
+          https://hackernoon.com/blockchain/home
+          https://storj.io/
+          https://ipfs.io/
+          https://github.com/ubirch/
+          https://sia.tech/
+          https://maidsafe.net/
+          https://filecoin.io/
+          https://www.mix-blockchain.org/
+          https://eos.io/
           https://ethereum.org/en/developers/docs/programming-languages/python/
           https://dev.to/gcrsaldanha/deploy-a-smart-contract-on-ethereum-with-python-truffle-and-web3py-5on
           https://solidity.readthedocs.io/en/v0.7.4/
