@@ -5,6 +5,12 @@
 
 '''
 References:
+          https://ethereum.org/en/developers/docs/programming-languages/python/
+          https://dev.to/gcrsaldanha/deploy-a-smart-contract-on-ethereum-with-python-truffle-and-web3py-5on
+          https://solidity.readthedocs.io/en/v0.7.4/
+          https://medium.com/coinmonks/how-to-develop-ethereum-contract-using-python-flask-9758fe65976e
+          https://hackernoon.com/ethereum-smart-contracts-in-python-a-comprehensive-ish-guide-771b03990988
+          https://hackernoon.com/creating-a-python-ethereum-interface-part-1-4d2e47ea0f4d
           http://trappedpuzzlerooms.com/z1p-broker/python-stock-bot-github.html
           https://blog.ansonbiggs.com/simple-telegram-stock-bot/
           https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fcodeburst.io%2Findian-stock-market-price-notifier-bot-telegram-92e376b0c33a
