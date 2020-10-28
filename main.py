@@ -30,7 +30,7 @@ References:
           https://www.youtube.com/playlist?list=PLBOh8f9FoHHhNmKlVW8TYKnNoCCf8srPh
           https://youtu.be/HT84tmymPaQ
           https://drive.google.com/file/d/1QeTdJYRJZGz8nTfqqxpW5GsPRvzTPkvo/view?usp=sharing
-          https://github.com/wildonion/stomegranate/blob/master/thewobox/blockchain.js
+          https://gist.github.com/wildonion/75781b6aad499febbb81db27ae12ab46
           https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
           https://developer.ibm.com/technologies/blockchain/tutorials/develop-a-blockchain-application-from-scratch-in-python/
           https://www.youtube.com/watch?v=KARxDX5DTgY
