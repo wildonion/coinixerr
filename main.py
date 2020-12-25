@@ -5,6 +5,7 @@
 
 '''
 References:
+          https://www.youtube.com/watch?v=Iu5T2TZumxU
           https://hackernoon.com/blockchain/home
           https://storj.io/
           https://ipfs.io/
